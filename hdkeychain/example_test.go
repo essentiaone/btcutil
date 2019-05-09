@@ -7,7 +7,7 @@ package hdkeychain_test
 import (
 	"fmt"
 
-	"github.com/htkachuk/btcd/chaincfg"
+	"github.com/htkachuk/divi/chaincfg"
 	"github.com/htkachuk/btcutil/hdkeychain"
 )
 

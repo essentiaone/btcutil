@@ -16,7 +16,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/htkachuk/btcd/chaincfg"
+	"github.com/htkachuk/divi/chaincfg"
 )
 
 // TestBIP0032Vectors tests the vectors provided by [BIP32] to ensure the

@@ -9,8 +9,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/htkachuk/btcd/chaincfg/chainhash"
-	"github.com/htkachuk/btcd/wire"
+	"github.com/htkachuk/divi/chaincfg/chainhash"
+	"github.com/htkachuk/divi/wire"
 	"github.com/htkachuk/btcutil/bloom"
 )
 

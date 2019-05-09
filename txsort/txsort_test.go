@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/htkachuk/btcd/wire"
+	"github.com/htkachuk/divi/wire"
 	"github.com/htkachuk/btcutil/txsort"
 )
 

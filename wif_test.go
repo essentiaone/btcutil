@@ -7,8 +7,8 @@ package btcutil_test
 import (
 	"testing"
 
-	"github.com/htkachuk/btcd/btcec"
-	"github.com/htkachuk/btcd/chaincfg"
+	"github.com/htkachuk/divi/btcec"
+	"github.com/htkachuk/divi/chaincfg"
 	. "github.com/htkachuk/btcutil"
 )
 

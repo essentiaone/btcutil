@@ -9,9 +9,9 @@ import (
 	"math"
 	"sync"
 
-	"github.com/htkachuk/btcd/chaincfg/chainhash"
-	"github.com/htkachuk/btcd/txscript"
-	"github.com/htkachuk/btcd/wire"
+	"github.com/htkachuk/divi/chaincfg/chainhash"
+	"github.com/htkachuk/divi/txscript"
+	"github.com/htkachuk/divi/wire"
 	"github.com/htkachuk/btcutil"
 )
 
