@@ -1,4 +1,4 @@
-// Copyright (c) 2014-2016 The btcsuite developers
+// Copyright (c) 2014-2016 The htkachuk developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
 
@@ -9,10 +9,10 @@ import (
 	"math"
 	"sync"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/txscript"
-	"github.com/btcsuite/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/htkachuk/btcd/chaincfg/chainhash"
+	"github.com/htkachuk/btcd/txscript"
+	"github.com/htkachuk/btcd/wire"
+	"github.com/htkachuk/btcutil"
 )
 
 // ln2Squared is simply the square of the natural log of 2.

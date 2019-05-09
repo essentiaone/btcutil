@@ -1,4 +1,4 @@
-// Copyright (c) 2013-2014 The btcsuite developers
+// Copyright (c) 2013-2014 The htkachuk developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
 
@@ -12,7 +12,7 @@ import (
 	"testing"
 	"unicode"
 
-	"github.com/btcsuite/btcutil"
+	"github.com/htkachuk/btcutil"
 )
 
 // TestAppDataDir tests the API for AppDataDir to ensure it gives expected

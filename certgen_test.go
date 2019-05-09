@@ -1,4 +1,4 @@
-// Copyright (c) 2013-2015 The btcsuite developers
+// Copyright (c) 2013-2015 The htkachuk developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
 
@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/btcsuite/btcutil"
+	"github.com/htkachuk/btcutil"
 	//"github.com/davecgh/go-spew/spew"
 )
 
