@@ -7,7 +7,7 @@ package hdkeychain_test
 import (
 	"fmt"
 
-	"github.com/essentiaone/divi/chaincfg"
+	"github.com/essentiaone/divid/chaincfg"
 	"github.com/essentiaone/btcutil/hdkeychain"
 )
 

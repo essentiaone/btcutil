@@ -7,8 +7,8 @@ package btcutil_test
 import (
 	"testing"
 
-	"github.com/essentiaone/divi/btcec"
-	"github.com/essentiaone/divi/chaincfg"
+	"github.com/essentiaone/divid/btcec"
+	"github.com/essentiaone/divid/chaincfg"
 	. "github.com/essentiaone/btcutil"
 )
 

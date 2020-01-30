@@ -11,8 +11,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/essentiaone/divi/btcec"
-	"github.com/essentiaone/divi/chaincfg"
+	"github.com/essentiaone/divid/btcec"
+	"github.com/essentiaone/divid/chaincfg"
 	"github.com/essentiaone/btcutil/base58"
 	"github.com/essentiaone/btcutil/bech32"
 	"golang.org/x/crypto/ripemd160"

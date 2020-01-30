@@ -12,7 +12,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/essentiaone/divi/chaincfg"
+	"github.com/essentiaone/divid/chaincfg"
 	"github.com/essentiaone/btcutil"
 	"golang.org/x/crypto/ripemd160"
 )

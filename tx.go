@@ -8,8 +8,8 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/essentiaone/divi/chaincfg/chainhash"
-	"github.com/essentiaone/divi/wire"
+	"github.com/essentiaone/divid/chaincfg/chainhash"
+	"github.com/essentiaone/divid/wire"
 )
 
 // TxIndexUnknown is the value returned for a transaction index that is unknown.

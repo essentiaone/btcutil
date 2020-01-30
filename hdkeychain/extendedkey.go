@@ -18,9 +18,9 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/essentiaone/divi/btcec"
-	"github.com/essentiaone/divi/chaincfg"
-	"github.com/essentiaone/divi/chaincfg/chainhash"
+	"github.com/essentiaone/divid/btcec"
+	"github.com/essentiaone/divid/chaincfg"
+	"github.com/essentiaone/divid/chaincfg/chainhash"
 	"github.com/essentiaone/btcutil"
 	"github.com/essentiaone/btcutil/base58"
 )

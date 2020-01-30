@@ -16,7 +16,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/essentiaone/divi/chaincfg"
+	"github.com/essentiaone/divid/chaincfg"
 )
 
 // TestBIP0032Vectors tests the vectors provided by [BIP32] to ensure the

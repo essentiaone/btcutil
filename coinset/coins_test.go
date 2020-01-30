@@ -11,8 +11,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/essentiaone/divi/chaincfg/chainhash"
-	"github.com/essentiaone/divi/wire"
+	"github.com/essentiaone/divid/chaincfg/chainhash"
+	"github.com/essentiaone/divid/wire"
 	"github.com/essentiaone/btcutil"
 	"github.com/essentiaone/btcutil/coinset"
 )

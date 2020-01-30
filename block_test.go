@@ -11,8 +11,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/essentiaone/divi/chaincfg/chainhash"
-	"github.com/essentiaone/divi/wire"
+	"github.com/essentiaone/divid/chaincfg/chainhash"
+	"github.com/essentiaone/divid/wire"
 	"github.com/essentiaone/btcutil"
 	"github.com/davecgh/go-spew/spew"
 )
