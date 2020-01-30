@@ -1,10 +1,10 @@
 btcutil
 =======
 
-[![Build Status](http://img.shields.io/travis/htkachuk/btcutil.svg)](https://travis-ci.org/htkachuk/btcutil)
-[![Coverage Status](http://img.shields.io/coveralls/htkachuk/btcutil.svg)](https://coveralls.io/r/htkachuk/btcutil?branch=master)
+[![Build Status](http://img.shields.io/travis/essentiaone/btcutil.svg)](https://travis-ci.org/essentiaone/btcutil)
+[![Coverage Status](http://img.shields.io/coveralls/essentiaone/btcutil.svg)](https://coveralls.io/r/essentiaone/btcutil?branch=master)
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/htkachuk/btcutil)
+[![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/essentiaone/btcutil)
 
 Package btcutil provides bitcoin-specific convenience functions and types.
 A comprehensive suite of tests is provided to ensure proper functionality.  See
@@ -21,13 +21,13 @@ provided.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/htkachuk/btcutil
+$ go get -u github.com/essentiaone/btcutil
 ```
 
 ## GPG Verification Key
 
 All official release tags are signed by Conformal so users can ensure the code
-has not been tampered with and is coming from the htkachuk developers.  To
+has not been tampered with and is coming from the essentiaone developers.  To
 verify the signature perform the following:
 
 - Download the public key from the Conformal website at

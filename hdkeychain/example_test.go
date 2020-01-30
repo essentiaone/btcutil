@@ -1,4 +1,4 @@
-// Copyright (c) 2014 The htkachuk developers
+// Copyright (c) 2014 The essentiaone developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
 
@@ -7,8 +7,8 @@ package hdkeychain_test
 import (
 	"fmt"
 
-	"github.com/htkachuk/divi/chaincfg"
-	"github.com/htkachuk/btcutil/hdkeychain"
+	"github.com/essentiaone/divi/chaincfg"
+	"github.com/essentiaone/btcutil/hdkeychain"
 )
 
 // This example demonstrates how to generate a cryptographically random seed

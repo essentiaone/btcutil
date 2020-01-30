@@ -1,4 +1,4 @@
-// Copyright (c) 2013-2014 The htkachuk developers
+// Copyright (c) 2013-2014 The essentiaone developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
 
@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/htkachuk/btcutil/base58"
+	"github.com/essentiaone/btcutil/base58"
 )
 
 func BenchmarkBase58Encode(b *testing.B) {

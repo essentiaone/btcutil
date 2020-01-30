@@ -1,4 +1,4 @@
-// Copyright (c) 2016-2017 The htkachuk developers
+// Copyright (c) 2016-2017 The essentiaone developers
 // Copyright (c) 2016-2017 The Lightning Network Developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
@@ -10,7 +10,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/htkachuk/btcutil/gcs"
+	"github.com/essentiaone/btcutil/gcs"
 )
 
 func genRandFilterElements(numElements uint) ([][]byte, error) {
